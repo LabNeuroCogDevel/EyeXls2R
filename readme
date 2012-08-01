@@ -1,5 +1,5 @@
-getFilelist.pl        generate filelists to load with Rscript
-data/code/xls2Rdat.R  create Rdata file for an exp
-
+data/filelists/getFilelist.pl    generate filelists to load with Rscript
+data/code/xls2Rdat.R             create Rdata file for an exp
+accuracy.R                       get accuracies of loaded Rdata
 # xls2Rdat based on 
 #old_idv/behvLoad.R         create eyeDataList_behv_20120727.Rdata
